@@ -6,7 +6,7 @@ This Power BI dashboard analyzes **IBM’s employee attrition**, highlighting ke
 ## **Dataset Information**
 - **Industry:** Technology (IBM Employee Data)
 - **Data Fields:** Employee ID, Age, Department, Job Satisfaction, Monthly Income, Work-Life Balance, Education, and Attrition Status
-- **Tool Used:** Microsoft Power BI
+- **Tool Used:** Excel and Microsoft Power BI
 
 ## **Key Metrics**
 - **Total Employees:** 1,470
